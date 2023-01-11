@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Draw</string>
+    <string name="drawing_circles">Рисование кругов</string>
+</resources>
